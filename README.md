@@ -1,5 +1,5 @@
 # E-Commerce
-E-Commerce Shop with Angular using FakeStoreAPI
+E-Commerce Shop with Angular using FakeStoreAPI and JSON Token Authentication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
