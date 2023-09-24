@@ -1,0 +1,19 @@
+img {
+    max-width: 150px;
+    max-height: 150px;
+    object-fit: contain;
+  }
+
+
+  .card-description {
+    max-height: 70px; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.card-description:hover{
+  max-height: 70px;
+  overflow: auto;
+  white-space: normal;
+}
